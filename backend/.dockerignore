@@ -1,0 +1,8 @@
+.env
+reqt.txt
+*__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+Dockerfile
